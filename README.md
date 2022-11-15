@@ -1,6 +1,6 @@
 # vaccine_portfolio
 
-![image](https://user-images.githubusercontent.com/102296551/201578552-85e6e6c4-c511-4c3b-b08c-2f7f3e24f8fd.png)
+![image](https://user-images.githubusercontent.com/102296551/201810410-2c5b5d93-84bf-4783-b7fd-a917c0ada82a.png)
 
 백신예약 페이지에 <br>
 백신을 예약하기 위한 예약번호와 주민번호, 백신코드, 병원코드, 예약날짜, 예약시간 등을 <br>
@@ -23,4 +23,8 @@
 
 ![image](https://user-images.githubusercontent.com/102296551/201579437-ca972114-7d63-456b-a296-ecd386c2858d.png)
 
-# 
+# insert_reservation.jsp
+
+![image](https://user-images.githubusercontent.com/102296551/201810286-43d005f5-3aa3-41dd-b018-1251a026ddcd.png)
+
+백신을 예약하기 위한 
