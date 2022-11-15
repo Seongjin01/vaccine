@@ -27,4 +27,6 @@
 
 ![image](https://user-images.githubusercontent.com/102296551/201810286-43d005f5-3aa3-41dd-b018-1251a026ddcd.png)
 
-백신을 예약하기 위한 
+DB에 연결하기 위한 쿼리문 작성 <BR>
+백신을 예약하기 위한 백신예약 페이지의 백그라운드 페이지를 만든다. <BR>
+  DB 테이블에있는 정보를 토대로 파라미터값의 이름을 만든다 예) RNUM, JNUM
