@@ -15,7 +15,7 @@
 
 # layout
 
-페이지에 알맞는 layout을 생성하고, 각각 header, nav, section, footer 등으로 나누어 만들어준다.
+페이지에 알맞는 layout을 생성하고, 각각 header, nav, footer 등으로 나누어 만들어준다.
 
 # index.jsp
 
@@ -23,4 +23,4 @@
 
 ![image](https://user-images.githubusercontent.com/102296551/201579437-ca972114-7d63-456b-a296-ecd386c2858d.png)
 
-
+# 
