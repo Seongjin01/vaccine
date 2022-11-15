@@ -1,10 +1,15 @@
 # vaccine_portfolio
 
-![image](https://user-images.githubusercontent.com/102296551/201810410-2c5b5d93-84bf-4783-b7fd-a917c0ada82a.png)
+![image](https://user-images.githubusercontent.com/102296551/201816587-c1eacfdf-cc51-4079-a282-1a5902b84a64.png)
 
 백신예약 페이지에 <br>
 백신을 예약하기 위한 예약번호와 주민번호, 백신코드, 병원코드, 예약날짜, 예약시간 등을 <br>
 테이블로 생성하고, 각 정보에 알맞는 input을 작성한다. <br>
+
+# 자동생성
+
+![image](https://user-images.githubusercontent.com/102296551/201816831-1896103e-da53-4cb5-9875-2859d70a829a.png)
+자동생성된 예약번호는 SQL에 저장되어있는 예약번호에 +1을 한 값을 출력하여 바로 다음사람이 예약할 수 있도록 생성한다.
 
 
 # DBConnect
