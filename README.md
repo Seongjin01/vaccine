@@ -35,3 +35,15 @@
 DB에 연결하기 위한 쿼리문 작성 <BR>
 백신을 예약하기 위한 백신예약 페이지의 백그라운드 페이지를 만든다. <BR>
   DB 테이블에있는 정보를 토대로 파라미터값의 이름을 만든다 예) RNUM, JNUM
+
+# 백신예약 조회
+
+![image](https://user-images.githubusercontent.com/102296551/201852791-e8d923de-2f86-4db1-a01b-78660d9a1fa3.png)
+
+![image](https://user-images.githubusercontent.com/102296551/201852872-ba7a896e-7a0c-4730-aa27-495e718162d5.png)
+자바 스크립트를 사용하여 input에 value가 없을 시 alert창을 띄우는 스크립트를 코딩하고, <br>
+![image](https://user-images.githubusercontent.com/102296551/201853014-d483558b-4bbf-4293-833c-87e50a5a64e2.png)
+섹션 부분을 table로 만들고, 버튼 두 개를 만든다.
+조회하기는 submit, 홈으로는 button이다.
+![image](https://user-images.githubusercontent.com/102296551/201853162-a8d25118-c21e-47a3-9c01-8bd9d6c00430.png)
+submit 으로 정보를 주고 받기 위한 form 태그도 작성해준다.
